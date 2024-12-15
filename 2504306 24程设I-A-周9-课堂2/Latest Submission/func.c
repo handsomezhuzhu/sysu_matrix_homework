@@ -1,0 +1,1 @@
+void func(int n,int(*matrix)[n],int *row,int *col);
