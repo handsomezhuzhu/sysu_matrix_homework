@@ -1,0 +1,4 @@
+GET /index.html HTTP/1.1
+Host:www.baidu.com
+
+aHR0cHM6Ly9tYXRyaXguc3lzdS5lZHUuY24vYWJvdXQvcmVjcnVpdGluZy8=
