@@ -9,4 +9,4 @@
 * 有些是AI辅助
   >~~没有注释，别问问就是懒得写~~
   >别学我
-![666](https://github.com/handsomezhuzhu/sysu_matrix_homework/blob/main/other/666.jpg =200x)
+<img src="https://github.com/handsomezhuzhu/sysu_matrix_homework/blob/main/other/666.jpg" width = “100” />
