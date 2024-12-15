@@ -1,0 +1,12 @@
+strcpy: Hello, World!
+strncpy: Hello
+strlen: 13
+strcmp: 0
+strcmp: 1
+strcat: Hello, World! C Programming
+strchr: o, World!
+strstr: World!
+atoi: 123
+atoi: -654
+atof: 123.456000
+atof: -321.654000

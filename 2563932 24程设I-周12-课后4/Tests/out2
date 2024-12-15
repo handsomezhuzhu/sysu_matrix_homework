@@ -1,0 +1,12 @@
+strcpy: Hello, Universe!
+strncpy: Hello, Unive
+strlen: 16
+strcmp: 0
+strcmp: -1
+strcat: Hello, Universe! in C
+strchr: !
+strstr: Universe!
+atoi: 1234
+atoi: -5678
+atof: 123.450000
+atof: -67.890000
