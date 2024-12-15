@@ -1,0 +1,1 @@
+char findRemovedCharacter(char* s, char* t);

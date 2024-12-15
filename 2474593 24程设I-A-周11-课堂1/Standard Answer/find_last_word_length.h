@@ -1,0 +1,1 @@
+int find_last_word_length(char *s);
