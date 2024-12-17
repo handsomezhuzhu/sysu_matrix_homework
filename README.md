@@ -1,7 +1,7 @@
 # sysu_matrix_homework
 * sysu matrix homework
 # 说明
-* 如果侵权就联系我吧，因为不知道学校能不能公开题目
+* 如果侵权就联系我吧（QQ:2024852801），因为不知道学校能不能公开题目
 * 在ddl前应该会提供我自己的代码
   >前提是我想起来
 * ddl之后答案可以在[学校oj上看](matrix.sysu.edu.cn)
