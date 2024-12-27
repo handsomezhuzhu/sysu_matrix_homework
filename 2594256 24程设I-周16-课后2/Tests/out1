@@ -1,0 +1,11 @@
+Push 1 successfully!
+Push 2 successfully!
+Wrong op! Curr stack is: 2 1
+Size of stack is 2
+Pop 2 successfully!
+Wrong op! Curr stack is: 1
+Stack is not empty!
+Pop 1 successfully!
+Pop failed!
+Stack is empty!
+Empty stack
