@@ -2,6 +2,7 @@
 * sysu matrix homework
 # 说明
 * 如果侵权就联系我吧（QQ:2024852801），因为不知道学校能不能公开题目
+* 如果你是在Gitee上查看这个仓库，请移步至https://github.com/handsomezhuzhu加入我们的开源项目，因为Gitee会被无情覆盖掉。
 * 在ddl前应该会提供我自己的代码
   >前提是我想起来
 * ddl之后答案可以在[学校oj上看](matrix.sysu.edu.cn)
